@@ -1,0 +1,40 @@
+* {
+    font-family: "Montserrat", sans-serif;
+}
+/* Header */
+header {
+    text-align: center;
+    background-color: pink;
+    padding: 10px;
+}
+h1 {
+    color:white;
+}
+#Welcome {
+    color: white;
+    font-size: 20px;
+}
+#Today-Date {
+    font-size: 20px;
+    color: white;
+}
+/* Table Header Row */
+.Header-Row {
+    color: pink;
+    font-weight: 400;
+}
+/* Highlight Projects Based On Due Date */
+.Project-Late {
+    background-color: pink;
+}
+.Project-Today {
+    background-color: lightsteelblue;
+}
+/* Buttons */
+.btn-custom {
+    background-color: pink;
+    color: white;
+}
+.btn-custom:hover {
+    color: palevioletred;
+}
